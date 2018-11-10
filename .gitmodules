@@ -1,0 +1,9 @@
+[submodule "ReactStepByStep"]
+	path = ReactStepByStep
+	url = https://github.com/quinou/ReactStepByStep.git
+[submodule "NodeJS_project"]
+	path = NodeJS_project
+	url = https://github.com/camblrt/NodeJS_project.git
+[submodule "ProjetJEE"]
+	path = ProjetJEE
+	url = https://github.com/quinou/ProjetJEE.git
